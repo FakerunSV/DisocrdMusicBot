@@ -1,4 +1,4 @@
-# DisocrdMusicBot
+# DiscordMusicBot
 Run this bot to make your bot became a music bot!
 Run The AdvancedMusicBot.jar and follow the steps to begin
 go to the discord.com/developers/applications to get the bot token
